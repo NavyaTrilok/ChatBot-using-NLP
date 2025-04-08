@@ -1,4 +1,4 @@
-# Meet-NUVA-My-ChatBot
+# Meet-My-ChatBot
 
 Some functioning images of my chatbot
 
