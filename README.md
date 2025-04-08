@@ -1,4 +1,4 @@
-# Meet-My-ChatBot
+# Meet-My-Bot
 
 Some functioning images of my chatbot
 
